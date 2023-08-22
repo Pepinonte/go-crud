@@ -2,8 +2,8 @@
 package main
 
 import (
-		"./models"
-		"./bdd.go"
+	"https://github.com/Pepinonte/go-crud/blob/master/models"
+	"github.com/gin-gonic/gin"
 )
 
 func main() {
